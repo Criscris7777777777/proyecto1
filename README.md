@@ -1,1 +1,1 @@
-# proyecto1
+# Automatizacion de residuos
